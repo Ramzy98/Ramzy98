@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ahmad Ramzy</h1>
 <h3 align="center">I am a self-motivated fresh graduate, creative and enthusiast learner. I am always looking forward to learning new technologies.</h3>
-
-- 📫 How to reach me **ahmadramzy988@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ahmadramzyag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmadramzyag" height="30" width="40" /></a>
+<p align="center">
+&emsp;
+<a href="https://linkedin.com/in/ahmadramzyag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmadramzyag" height="50" width="50" /></a>
+
+&emsp;
+ <a href = "mailto: ahmadramzy988@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="50" width="50" /></a>
 </p>
 
 ## 🛠️ My Skills
@@ -35,7 +36,7 @@
 <a href="#"><img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" height="50px"></a>
 </p>
 
-### Mobile App Development
+### 👉 Mobile App Development
 
 <p align="center">
 &emsp;
