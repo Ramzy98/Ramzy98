@@ -4,14 +4,13 @@
 <p align="center">
 &emsp;
 <a href="https://linkedin.com/in/ahmadramzyag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmadramzyag" height="50" width="50" /></a>
-
 &emsp;
  <a href = "mailto: ahmadramzy988@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="50" width="50" /></a>
 </p>
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages
+### 🖥 Programming languages
 
 <p align="center">
 &emsp;
@@ -29,21 +28,21 @@
 &emsp;
 </p>
   
-### 👉 Frontend Framework
+### 🖥 Frontend Framework
 
 <p align="center">
 &emsp;
 <a href="#"><img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" height="50px"></a>
 </p>
 
-### 👉 Mobile App Development
+### 🖥 Mobile App Development
 
 <p align="center">
 &emsp;
 <a href="#"><img alt="ReactNative" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" height="50px"></a>
 </p>
 
-### 👉 Backend Development
+### 🖥 Backend Development
 
 <p align="center">
 &emsp;
