@@ -13,7 +13,7 @@
 ### 👉 Programming languages
 
 &emsp;
-    <a href="#"><img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
+    <a href="#"><img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" heigth="50px"></a>
   
 ### 👉 Frontend Development
 
