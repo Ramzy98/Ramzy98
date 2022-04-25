@@ -12,11 +12,12 @@
 
 ### 👉 Programming languages
 
-
+&emsp;
+    <a href="#"><img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
+  
+### 👉 Frontend Development
 
 ### 👉 Backend Development
-
-### 👉 Frontend Development
 
 ### 👉 Testing Frameworks
 
