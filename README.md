@@ -12,6 +12,7 @@
 
 ### 👉 Programming languages
 
+<p align="center">
 &emsp;
 <a href="#"><img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" height="50px"></a>
 &emsp;
@@ -25,7 +26,8 @@
 &emsp;
 <a href="#"><img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px" height="50px"></a>
 &emsp;
-
+</p>
+  
 ### 👉 Frontend Framework
 
 <p align="center">
