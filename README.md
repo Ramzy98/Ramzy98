@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ahmad Ramzy</h1>
 <h3 align="center">I am a self-motivated fresh graduate, creative and enthusiast learner. I am always looking forward to learning new technologies.</h3>
-<h3 align="left">Connect with me:</h3>
+
+## 📥 Connect with me
+
 <p align="center">
 &emsp;
 <a href="https://linkedin.com/in/ahmadramzyag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmadramzyag" height="40" width="40" /></a>
 &emsp;
  <a href = "mailto: ahmadramzy988@gmail.com"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/google-mail-4062821-3357707.png" height="50" width="50" /></a>
 </p>
-
 ## 🛠️ My Skills
 
 ### 🖥 Programming languages
