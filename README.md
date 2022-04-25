@@ -26,26 +26,30 @@
 <a href="#"><img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px" height="50px"></a>
 &emsp;
 
-### 👉 Frontend Frameworks
+### 👉 Frontend Framework
 
+<p align="center">
 &emsp;
 <a href="#"><img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" height="50px"></a>
-
+</p>
 ### 👉 Backend Development
-
+<p align="center">
 &emsp;
-<a href="#"><img alt="Rails" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rahils-original-wordmark.svg" width="50px" height="50px"></a>
+<a href="#"><img alt="Rails" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="50px" height="50px"></a>
 &emsp;
 <a href="#"><img alt="NodeJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="50px" height="50px"></a>
 &emsp;
 <a href="#"><img alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="50px" height="50px"></a>
 &emsp;
 <a href="#"><img alt="PostgresSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50px" height="50px"></a>
+</p>
 
 ### 👉 Testing Frameworks
 
+<p align="center">
 &emsp;
 <a href="#"><img alt="Rails" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg" width="50px" height="50px"></a>
+</p>
 
 ## 🔥 Streak Stats
 
