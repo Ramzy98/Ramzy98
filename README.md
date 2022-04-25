@@ -5,7 +5,7 @@
 &emsp;
 <a href="https://linkedin.com/in/ahmadramzyag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmadramzyag" height="50" width="50" /></a>
 &emsp;
- <a href = "mailto: ahmadramzy988@gmail.com"><img align="center" src="https://static.wikia.nocookie.net/encyclopedia/images/a/a9/1024px-Gmail_Icon.png/revision/latest?cb=20181126114403" height="50" width="50" /></a>
+ <a href = "mailto: ahmadramzy988@gmail.com"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/google-mail-4062821-3357707.png" height="50" width="50" /></a>
 </p>
 
 ## 🛠️ My Skills
