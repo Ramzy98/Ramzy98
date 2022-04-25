@@ -5,7 +5,7 @@
 &emsp;
 <a href="https://linkedin.com/in/ahmadramzyag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmadramzyag" height="50" width="50" /></a>
 &emsp;
- <a href = "mailto: ahmadramzy988@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="50" width="50" /></a>
+ <a href = "mailto: ahmadramzy988@gmail.com"><img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" height="50" width="50" /></a>
 </p>
 
 ## 🛠️ My Skills
