@@ -12,7 +12,7 @@
 
 ## 🛠️ My Skills
 
-### 🖥 Programming languages
+### 👉 Programming languages
 
 <p align="center">
 &emsp;
@@ -30,21 +30,14 @@
 &emsp;
 </p>
   
-### 🖥 Frontend Framework
+### 👉 Frontend Frameworks
 
 <p align="center">
 &emsp;
 <a href="#"><img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" height="50px"></a>
 </p>
 
-### 🖥 Mobile App Development
-
-<p align="center">
-&emsp;
-<a href="#"><img alt="ReactNative" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" height="50px"></a>
-</p>
-
-### 🖥 Backend Development
+### 👉 Backend Development
 
 <p align="center">
 &emsp;
@@ -55,6 +48,13 @@
 <a href="#"><img alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="50px" height="50px"></a>
 &emsp;
 <a href="#"><img alt="PostgresSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50px" height="50px"></a>
+</p>
+
+### 👉 Mobile App Development
+
+<p align="center">
+&emsp;
+<a href="#"><img alt="ReactNative" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" height="50px"></a>
 </p>
 
 ### 👉 Testing Frameworks
