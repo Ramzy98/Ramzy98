@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Ramzy</h1>
-<h3 align="center">I am a self-motivated fresh graduate, creative and enthusiast learner. I am always looking forward to learning new technologies.</h3>
+<p align="center">I am a self-motivated fresh graduate, creative and enthusiast learner. I am always looking forward to learning new technologies.</p>
 
 ## 📥 Connect with me
 
