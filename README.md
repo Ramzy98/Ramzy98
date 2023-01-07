@@ -61,7 +61,9 @@
 
 <p align="center">
 &emsp;
-<a href="#"><img alt="Rails" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg" width="50px" height="50px"></a>
+<a href="#"><img alt="Jasmine" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg" width="50px" height="50px"></a>
+&emsp;
+<a href="#"><img alt="Cypress" src="https://blog.knoldus.com/wp-content/uploads/2022/04/cypress.png" width="50px" height="50px"></a>
 </p>
 
 ## 🔥 Streak Stats
